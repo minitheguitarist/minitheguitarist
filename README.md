@@ -9,11 +9,12 @@ I'm a Computer Engineering student on Bozok University / Turkey.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
 </p>
 
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Hynkzz&show_icons=true&count_private=true&theme=merko" alt="GitHub İstatistikleri" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hynkzz&layout=compact&theme=merko" alt="En Çok Kullanılan Diller" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hynkzz&theme=merko" alt="GitHub Streak" />
-
+<h2 align = "center">GitHub Stats</h2>
+<div> 
+<p align = "center">
+  <a href="https://github.com/minitheguitarist"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api/?username=minitheguitarist&show_icons=true&include_all_commits=true&count_private=true&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&line_height=28&rank_icon=github" height="192px"/></a>
+  <a href="https://github.com/minitheguitarist"><img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=minitheguitarist&langs_count=8&layout=compact&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/minitheguitarist"><img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=minitheguitarist&theme=dracula&bg_color=1F222E&title_color=F85D7F&point=F8D866&line=F85D7F&color=a6accd&hide_border=true&radius=4.5" /></a>
+</p>
+</div>
+<br>
