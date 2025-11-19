@@ -1,5 +1,5 @@
 # Hi , I'm Semih Murat.
-I'm a Computer Engineering student on Bozok University / Turkey.
+I am a Computer Engineering student at Bozok University in Turkey.
 
 ## Skills
 
